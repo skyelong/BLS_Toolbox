@@ -1,0 +1,119 @@
+actcode_code	actcode_text	display_level	selectable	sort_sequence
+000000	Total, all activities	0	T	1
+010100	Sleeping	2	T	3
+010200	Grooming	2	T	4
+010300	Health-related self care	2	T	5
+010400	Personal activities	2	T	6
+020100	Housework	2	T	12
+020101	Interior cleaning	3	T	13
+020102	Laundry	3	T	14
+020104	Storing interior household items, including food	3	T	15
+020200	Food preparation and cleanup	2	T	16
+020201	Food and drink preparation	3	T	17
+020203	Kitchen and food cleanup	3	T	18
+020300	Interior maintenance, repair, and decoration	2	T	23
+020400	Exterior maintenance, repair, and decoration	2	T	24
+020500	Lawn and garden care	2	T	19
+020600	Animal and pet care	2	T	25
+020601	Care for animals and pets (not veterinary care)	3	T	26
+020602	Walking, exercising, and playing with animals	3	T	27
+020700	Vehicle care (by self)	2	T	28
+020800	Appliance, tool, and toy maintenance (by self)	2	T	29
+020901	Financial management	3	T	21
+020902	Household and personal organization and planning	3	T	22
+020903	Household and personal mail and messages	3	T	109
+020904	Household and personal e-mail and messages	3	T	110
+030100	Caring for and helping household children (except activities related to education and health)	3	T	45
+030101	Physical care for household children	4	T	46
+030102	Reading to/with household children	4	T	47
+030103	Playing with household children, not sports	4	T	49
+030106	Talking with/listening to household children	4	T	48
+030110	Attending household children's events	4	T	50
+030200	Activities related to household children's education	3	T	51
+030201	Helping household children with homework	4	T	52
+030300	Activities related to household children's health	3	T	53
+030400	Caring for household adults	3	T	55
+030401	Physical care for household adults	4	T	56
+030500	Helping household adults	3	T	57
+040400	Caring for nonhousehold adults	3	T	62
+040500	Helping nonhousehold adults	3	T	63
+050100	Working	2	T	66
+050101	Working, main job	0	T	129
+050200	Work-related activities	2	T	67
+050300	Other income-generating activities	2	T	68
+050400	Job search and interviewing	2	T	69
+060100	Attending class	2	T	72
+060101	Taking class for degree, certification, or licensure	3	T	73
+060300	Homework and research	2	T	74
+070000	Consumer goods purchases	2	T	32
+070101	Grocery shopping	3	T	33
+080000	Professional and personal care services	2	T	34
+080200	Financial services and banking	3	T	35
+080400	Medical and care services	3	T	36
+080500	Personal care services	3	T	37
+090000	Household services	2	T	38
+090200	Home maintenance, repair, decoration, and construction (not done by self)	3	T	39
+090500	Vehicle maintenance and repair services (not done by self)	3	T	40
+100200	Civic obligations and participation	3	T	87
+110100	Eating and drinking	2	T	9
+120000	Socializing, relaxing, and leisure	2	T	90
+120100	Socializing and communicating (except social events)	4	T	92
+120200	Attending or hosting social events	4	T	93
+120300	Relaxing and leisure	3	T	94
+120301	Relaxing and thinking	4	T	96
+120307	Playing games	4	T	97
+120308	Computer use for leisure (excluding games)	4	T	98
+120312	Reading for personal interest	4	T	99
+120400	Arts and entertainment (other than sports)	3	T	100
+130000	Sports, exercise, and recreation	2	T	101
+130100	Participating in sports, exercise, or recreation	3	T	102
+130131	Walking	4	T	103
+130200	Attending sporting or recreational events	3	T	104
+140000	Religious and spiritual activities	2	T	77
+140101	Attending religious services	3	T	78
+140102	Participation in religious practices	3	T	79
+150000	Volunteer activities	3	T	81
+150100	Administrative and support activities (volunteering)	4	T	82
+150200	Social service and care activities (volunteering)	4	T	83
+150300	Indoor and outdoor maintenance, building, and cleanup activities (volunteering)	4	T	84
+150400	Participating in performance and cultural activities (volunteering)	4	T	85
+150500	Attending meetings, conferences, and training (volunteering)	4	T	86
+160100	Telephone calls (to or from)	2	T	107
+180000	Traveling	0	T	132
+180100	Travel related to personal care	2	T	7
+180200	Travel related to household activities	2	T	30
+180300	Travel related to caring for and helping household members	2	T	58
+180400	Travel related to caring for and helping nonhousehold members	2	T	64
+180500	Travel related to work	2	T	70
+180600	Travel related to education	2	T	75
+181100	Travel related to eating and drinking	2	T	10
+181600	Travel related to telephone calls	2	T	111
+600001	Personal care activities (includes travel)	1	T	2
+600003	Household activities (includes travel)	1	T	11
+600005	Household management	2	T	20
+600007	Caring for and helping household members (includes travel)	1	T	43
+600008	Caring for and helping household children under 18	2	T	44
+600009	Caring for and helping household adults	2	T	54
+600010	Caring for and helping nonhousehold members (includes travel)	1	T	59
+600011	Caring for and helping nonhousehold children	2	T	60
+600012	Caring for and helping nonhousehold adults	2	T	61
+600013	Working and work-related activities (includes travel)	1	T	65
+600016	Educational activities (includes travel)	1	T	71
+600018	Purchasing goods and services (includes travel)	1	T	31
+600021	Travel related to purchasing goods and services	2	T	42
+600022	Eating and drinking (includes travel)	1	T	8
+600023	Leisure and sports (includes travel)	1	T	89
+600024	Socializing and communicating	3	T	91
+600025	Watching TV	4	T	95
+600027	Participating in sports, exercise, and recreation (includes related waiting and security)	0	T	137
+600029	Travel related to leisure and sports	2	T	105
+600030	Organizational, civic, and religious activities	1	T	76
+600032	Volunteering (organizational and civic activities)	2	T	80
+600033	Telephone calls, mail, and e-mail (includes travel)	1	T	106
+600034	Other activities, not elsewhere classified (includes misc. travel and data codes)	1	T	112
+600058	Playing games and computer use for leisure	0	T	142
+600059	Other leisure and sports activities, including travel	0	T	143
+600066	Travel related to organizational, civic, and religious activities	2	T	88
+600069	Government services	2	T	41
+600072	Household and personal messages	2	T	108
+600083	Caring for and helping others	0	T	152

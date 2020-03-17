@@ -1,0 +1,5 @@
+pertype_code	pertype_text	display_level	selectable	sort_sequence
+00	All days	0	T	1
+16	Weekend days and holidays	0	T	5
+18	Weekdays	0	T	2
+19	Nonholiday weekdays	0	T	3

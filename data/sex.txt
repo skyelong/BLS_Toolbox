@@ -1,0 +1,4 @@
+sex_code	sex_text	display_level	selectable	sort_sequence
+0	Both sexes	0	T	1
+1	Men	0	T	2
+2	Women	0	T	3

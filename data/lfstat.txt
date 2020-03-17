@@ -1,0 +1,6 @@
+lfstat_code	lfstat_text	display_level	selectable	sort_sequence
+00	N/A	0	T	1
+01	Employed	0	T	2
+04	Employed full time	0	T	3
+07	Employed part time	0	T	4
+20	Not Employed	0	T	6

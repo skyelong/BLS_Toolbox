@@ -1,0 +1,85 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+  
+  <head>
+    
+      <meta charset="utf-8">
+      <title>Bokeh Plot</title>
+      
+      
+        
+          
+        
+        
+          
+        <script type="text/javascript" src="https://cdn.pydata.org/bokeh/release/bokeh-1.4.0.min.js"></script>
+        <script type="text/javascript">
+            Bokeh.set_log_level("info");
+        </script>
+        
+      
+      
+    
+  </head>
+  
+  
+  <body>
+    
+      
+        
+          
+          
+            
+              <div class="bk-root" id="38fc3192-94fa-4138-8e50-6906decdf781" data-root-id="12453"></div>
+            
+          
+        
+      
+      
+        <script type="application/json" id="12881">
+          {"71a224af-b521-4f8e-b37c-3943a3ff05d2":{"roots":{"references":[{"attributes":{"below":[{"id":"12464","type":"CategoricalAxis"}],"center":[{"id":"12467","type":"Grid"},{"id":"12472","type":"Grid"}],"left":[{"id":"12468","type":"LinearAxis"}],"outline_line_color":{"value":null},"plot_height":700,"plot_width":700,"renderers":[{"id":"12490","type":"GlyphRenderer"}],"title":{"id":"12454","type":"Title"},"toolbar":{"id":"12479","type":"Toolbar"},"x_range":{"id":"12456","type":"FactorRange"},"x_scale":{"id":"12460","type":"CategoricalScale"},"y_range":{"id":"12458","type":"DataRange1d"},"y_scale":{"id":"12462","type":"LinearScale"}},"id":"12453","subtype":"Figure","type":"Plot"},{"attributes":{"axis_label":null,"formatter":{"id":"12731","type":"CategoricalTickFormatter"},"major_label_orientation":1.5,"ticker":{"id":"12465","type":"CategoricalTicker"}},"id":"12464","type":"CategoricalAxis"},{"attributes":{"axis_label":"Average Time per Week (hrs)","formatter":{"id":"12733","type":"BasicTickFormatter"},"ticker":{"id":"12469","type":"BasicTicker"}},"id":"12468","type":"LinearAxis"},{"attributes":{"source":{"id":"12486","type":"ColumnDataSource"}},"id":"12491","type":"CDSView"},{"attributes":{},"id":"12465","type":"CategoricalTicker"},{"attributes":{"factors":["Caring for and helping household members (includes travel)","Caring for and helping nonhousehold members (includes travel)","Eating and drinking (includes travel)","Educational activities (includes travel)","Household activities (includes travel)","Leisure and sports (includes travel)","Organizational, civic, and religious activities","Other activities, not elsewhere classified (includes misc. travel and data codes)","Personal care activities (includes travel)","Purchasing goods and services (includes travel)","Telephone calls, mail, and e-mail (includes travel)","Working and work-related activities (includes travel)"],"palette":["#1f77b4","#aec7e8","#ff7f0e","#ffbb78","#2ca02c","#98df8a","#d62728","#ff9896","#9467bd","#c5b0d5","#8c564b","#c49c94","#e377c2","#f7b6d2","#7f7f7f","#c7c7c7","#bcbd22","#dbdb8d","#17becf"]},"id":"12452","type":"CategoricalColorMapper"},{"attributes":{},"id":"12469","type":"BasicTicker"},{"attributes":{},"id":"12462","type":"LinearScale"},{"attributes":{"active_drag":"auto","active_inspect":"auto","active_multi":null,"active_scroll":"auto","active_tap":"auto","tools":[{"id":"12473","type":"PanTool"},{"id":"12474","type":"WheelZoomTool"},{"id":"12475","type":"BoxZoomTool"},{"id":"12476","type":"SaveTool"},{"id":"12477","type":"ResetTool"},{"id":"12478","type":"HelpTool"}]},"id":"12479","type":"Toolbar"},{"attributes":{},"id":"12474","type":"WheelZoomTool"},{"attributes":{"text":"Average Time Spent on Activity Per Week (Avg of 2008-2018)"},"id":"12454","type":"Title"},{"attributes":{},"id":"12460","type":"CategoricalScale"},{"attributes":{"callback":null,"factors":["Caring for and helping household members (includes travel)","Caring for and helping nonhousehold members (includes travel)","Eating and drinking (includes travel)","Educational activities (includes travel)","Household activities (includes travel)","Leisure and sports (includes travel)","Organizational, civic, and religious activities","Other activities, not elsewhere classified (includes misc. travel and data codes)","Personal care activities (includes travel)","Purchasing goods and services (includes travel)","Telephone calls, mail, and e-mail (includes travel)","Working and work-related activities (includes travel)"]},"id":"12456","type":"FactorRange"},{"attributes":{"dimension":1,"ticker":{"id":"12469","type":"BasicTicker"}},"id":"12472","type":"Grid"},{"attributes":{"fill_alpha":{"value":0.1},"fill_color":{"value":"#1f77b4"},"line_alpha":{"value":0.1},"line_color":{"value":"#1f77b4"},"top":{"field":"avg_time_per_week_mean"},"width":{"value":1},"x":{"field":"activity"}},"id":"12489","type":"VBar"},{"attributes":{},"id":"12476","type":"SaveTool"},{"attributes":{},"id":"12477","type":"ResetTool"},{"attributes":{},"id":"12733","type":"BasicTickFormatter"},{"attributes":{"grid_line_color":null,"ticker":{"id":"12465","type":"CategoricalTicker"}},"id":"12467","type":"Grid"},{"attributes":{},"id":"12736","type":"Selection"},{"attributes":{},"id":"12731","type":"CategoricalTickFormatter"},{"attributes":{"data_source":{"id":"12486","type":"ColumnDataSource"},"glyph":{"id":"12488","type":"VBar"},"hover_glyph":null,"muted_glyph":null,"nonselection_glyph":{"id":"12489","type":"VBar"},"selection_glyph":null,"view":{"id":"12491","type":"CDSView"}},"id":"12490","type":"GlyphRenderer"},{"attributes":{"callback":null,"data":{"Unnamed: 0_25%":{"__ndarray__":"AAAAAABAR0AAAAAAAMBMQAAAAAAAACtAAAAAAADgU0AAAAAAAIA4QAAAAAAAYFlAAAAAAACgVkAAAAAAAOBeQAAAAAAAAARAAAAAAADAQUAAAAAAACBcQAAAAAAAIFFA","dtype":"float64","shape":[12]},"Unnamed: 0_50%":{"__ndarray__":"AAAAAACASEAAAAAAAABOQAAAAAAAADBAAAAAAACAVEAAAAAAAAA7QAAAAAAAAFpAAAAAAABAV0AAAAAAAIBfQAAAAAAAABRAAAAAAAAAQ0AAAAAAAMBcQAAAAAAAwFFA","dtype":"float64","shape":[12]},"Unnamed: 0_75%":{"__ndarray__":"AAAAAADASUAAAAAAAEBPQAAAAAAAgDJAAAAAAAAgVUAAAAAAAIA9QAAAAAAAoFpAAAAAAADgV0AAAAAAABBgQAAAAAAAAB5AAAAAAABAREAAAAAAAGBdQAAAAAAAYFJA","dtype":"float64","shape":[12]},"Unnamed: 0_count":{"__ndarray__":"AAAAAAAAJkAAAAAAAAAmQAAAAAAAACZAAAAAAAAAJkAAAAAAAAAmQAAAAAAAACZAAAAAAAAAJkAAAAAAAAAmQAAAAAAAACZAAAAAAAAAJkAAAAAAAAAmQAAAAAAAACZA","dtype":"float64","shape":[12]},"Unnamed: 0_max":{"__ndarray__":"AAAAAAAAS0AAAAAAAEBQQAAAAAAAADVAAAAAAADAVUAAAAAAAABAQAAAAAAAQFtAAAAAAACAWEAAAAAAAGBgQAAAAAAAACRAAAAAAACARUAAAAAAAABeQAAAAAAAAFNA","dtype":"float64","shape":[12]},"Unnamed: 0_mean":{"__ndarray__":"AAAAAACASEAAAAAAAABOQAAAAAAAADBAAAAAAACAVEAAAAAAAAA7QAAAAAAAAFpAAAAAAABAV0AAAAAAAIBfQAAAAAAAABRAAAAAAAAAQ0AAAAAAAMBcQAAAAAAAwFFA","dtype":"float64","shape":[12]},"Unnamed: 0_min":{"__ndarray__":"AAAAAAAARkAAAAAAAIBLQAAAAAAAACZAAAAAAABAU0AAAAAAAAA2QAAAAAAAwFhAAAAAAAAAVkAAAAAAAEBeQAAAAAAAAAAAAAAAAACAQEAAAAAAAIBbQAAAAAAAgFBA","dtype":"float64","shape":[12]},"Unnamed: 0_std":{"__ndarray__":"NG/9k3KICkA0b/2TcogKQDRv/ZNyiApANG/9k3KICkA0b/2TcogKQDRv/ZNyiApANG/9k3KICkA0b/2TcogKQDRv/ZNyiApANG/9k3KICkA0b/2TcogKQDRv/ZNyiApA","dtype":"float64","shape":[12]},"activity":["Caring for and helping household members (includes travel)","Caring for and helping nonhousehold members (includes travel)","Eating and drinking (includes travel)","Educational activities (includes travel)","Household activities (includes travel)","Leisure and sports (includes travel)","Organizational, civic, and religious activities","Other activities, not elsewhere classified (includes misc. travel and data codes)","Personal care activities (includes travel)","Purchasing goods and services (includes travel)","Telephone calls, mail, and e-mail (includes travel)","Working and work-related activities (includes travel)"],"avg_time_per_week_25%":{"__ndarray__":"UrgehetR4D+uR+F6FK7HP+F6FK5H4fI/cT0K16Nw3T9SuB6F61H8P0jhehSuxxRAexSuR+F61D/iehSuR+HKP/YoXI/C9SJACtejcD0K5z8zMzMzMzPDPz0K16NwPQxA","dtype":"float64","shape":[12]},"avg_time_per_week_50%":{"__ndarray__":"pHA9Ctej4D/hehSuR+HKP4XrUbgehfM/FK5H4XoU3j97FK5H4Xr8P/YoXI/C9RRAH4XrUbge1T+4HoXrUbjOPxSuR+F6FCNAAAAAAAAA6D97FK5H4XrEP4/C9ShcjwxA","dtype":"float64","shape":[12]},"avg_time_per_week_75%":{"__ndarray__":"9ihcj8L14D/hehSuR+HKP8L1KFyPwvM/uB6F61G43j/iehSuR+H8P4/C9ShcDxVAcT0K16Nw1T+amZmZmZnRPylcj8L1KCNAKVyPwvUo6D/C9Shcj8LFP7gehetRuAxA","dtype":"float64","shape":[12]},"avg_time_per_week_count":{"__ndarray__":"AAAAAAAAJkAAAAAAAAAmQAAAAAAAACZAAAAAAAAAJkAAAAAAAAAmQAAAAAAAACZAAAAAAAAAJkAAAAAAAAAmQAAAAAAAACZAAAAAAAAAJkAAAAAAAAAmQAAAAAAAACZA","dtype":"float64","shape":[12]},"avg_time_per_week_max":{"__ndarray__":"SOF6FK5H4T9xPQrXo3DNPwAAAAAAAPQ/AAAAAAAA4D9xPQrXo3D9P3sUrkfhehVAZmZmZmZm1j9mZmZmZmbWP0jhehSuRyNApHA9Ctej6D/hehSuR+HKP9ejcD0K1w1A","dtype":"float64","shape":[12]},"avg_time_per_week_mean":{"__ndarray__":"rJi0ikmr4D+amZmZmZnJP1yPwvUoXPM/BF5Z4JUF3j+N+NeIf438P/KUIE8J8hRAAeUOUO4A1T/Gv0b8a8TPPw5r37D2DSNAvZfPe/m85z8t1dlSnS3FP4MGQ2gwhAxA","dtype":"float64","shape":[12]},"avg_time_per_week_min":{"__ndarray__":"UrgehetR4D8K16NwPQrHP7gehetRuPI/4XoUrkfh2j+uR+F6FK77P4XrUbgehRRAMzMzMzMz0z9SuB6F61HIP0jhehSuxyJACtejcD0K5z/sUbgehevBP65H4XoUrgtA","dtype":"float64","shape":[12]},"avg_time_per_week_std":{"__ndarray__":"gzf64bMBiT9DkSUUgiKRPyMN4+rxgqA/HqqaNS82lT/PGERyArqgP7bYG1I1wrA/RHlDa+kfjj9zxXMpF8mpPw93O64PKbM/5QJZCKZUkz8HOrEqopqWP486X46YAbI/","dtype":"float64","shape":[12]},"std_err_25%":{"__ndarray__":"+n5qvHSTiD8830+Nl26CP7tJDAIrh4Y/y6FFtvP9lD+q8dJNYhCYP3sUrkfheqQ/u0kMAiuHhj/c+X5qvHSDP+omMQisHJo/GARWDi2yjT/6fmq8dJN4P/p+arx0k6g/","dtype":"float64","shape":[12]},"std_err_50%":{"__ndarray__":"+n5qvHSTiD8830+Nl26CP/p+arx0k4g/+n5qvHSTmD/6fmq8dJOYP3sUrkfheqQ/+n5qvHSTiD+7SQwCK4eGP9rO91PjpZs/uB6F61G4jj/6fmq8dJN4P5qZmZmZmak/","dtype":"float64","shape":[12]},"std_err_75%":{"__ndarray__":"2c73U+Oliz97FK5H4XqEP/p+arx0k4g/mpmZmZmZmT+amZmZmZmZP2q8dJMYBKY/mpmZmZmZiT85tMh2vp+KPylcj8L1KJw//Knx0k1ikD946SYxCKx8P+J6FK5H4ao/","dtype":"float64","shape":[12]},"std_err_count":{"__ndarray__":"AAAAAAAAJkAAAAAAAAAmQAAAAAAAACZAAAAAAAAAJkAAAAAAAAAmQAAAAAAAACZAAAAAAAAAJkAAAAAAAAAmQAAAAAAAACZAAAAAAAAAJkAAAAAAAAAmQAAAAAAAACZA","dtype":"float64","shape":[12]},"std_err_max":{"__ndarray__":"uB6F61G4jj+7SQwCK4eGPzq0yHa+n4o/uB6F61G4nj+4HoXrUbieP/p+arx0k6g/eOkmMQisjD/8qfHSTWKQP5zEILByaKE//Knx0k1ikD946SYxCKx8P2mR7Xw/Na4/","dtype":"float64","shape":[12]},"std_err_mean":{"__ndarray__":"dE2gPWtAij+ME8k4kYyDP2+xGUrO1Ic/b7EZSs7Ulz8jGSeScSKZPwXi/rmHOaU/l0vWH8tjiD+pSvEQe3WHPym1rYUOjps/V+vwTqiIjj9Ms+NnbrF5PzkN5znXBKo/","dtype":"float64","shape":[12]},"std_err_min":{"__ndarray__":"+n5qvHSTiD/8qfHSTWKAP3sUrkfheoQ/2/l+arx0kz8bL90kBoGVP9v5fmq8dKM/exSuR+F6hD8830+Nl26CP1pkO99PjZc/+n5qvHSTiD97FK5H4Xp0PwrXo3A9Cqc/","dtype":"float64","shape":[12]},"std_err_std":{"__ndarray__":"QBFKi3qsUT/uR8qAoJxOP+qCI9eQSk4/HuiMgRtwaz9biPgYW3NiP8znSBeaQWo/jQdDwQ9OVT87tNFXDCpjPy+iWqHst2Y/A5d17ZmHVj/J+BfNqDBFP57dFzo8XHE/","dtype":"float64","shape":[12]},"year_25%":{"__ndarray__":"AAAAAABqn0AAAAAAAGqfQAAAAAAAap9AAAAAAABqn0AAAAAAAGqfQAAAAAAAap9AAAAAAABqn0AAAAAAAGqfQAAAAAAAap9AAAAAAABqn0AAAAAAAGqfQAAAAAAAap9A","dtype":"float64","shape":[12]},"year_50%":{"__ndarray__":"AAAAAAB0n0AAAAAAAHSfQAAAAAAAdJ9AAAAAAAB0n0AAAAAAAHSfQAAAAAAAdJ9AAAAAAAB0n0AAAAAAAHSfQAAAAAAAdJ9AAAAAAAB0n0AAAAAAAHSfQAAAAAAAdJ9A","dtype":"float64","shape":[12]},"year_75%":{"__ndarray__":"AAAAAAB+n0AAAAAAAH6fQAAAAAAAfp9AAAAAAAB+n0AAAAAAAH6fQAAAAAAAfp9AAAAAAAB+n0AAAAAAAH6fQAAAAAAAfp9AAAAAAAB+n0AAAAAAAH6fQAAAAAAAfp9A","dtype":"float64","shape":[12]},"year_count":{"__ndarray__":"AAAAAAAAJkAAAAAAAAAmQAAAAAAAACZAAAAAAAAAJkAAAAAAAAAmQAAAAAAAACZAAAAAAAAAJkAAAAAAAAAmQAAAAAAAACZAAAAAAAAAJkAAAAAAAAAmQAAAAAAAACZA","dtype":"float64","shape":[12]},"year_max":{"__ndarray__":"AAAAAACIn0AAAAAAAIifQAAAAAAAiJ9AAAAAAACIn0AAAAAAAIifQAAAAAAAiJ9AAAAAAACIn0AAAAAAAIifQAAAAAAAiJ9AAAAAAACIn0AAAAAAAIifQAAAAAAAiJ9A","dtype":"float64","shape":[12]},"year_mean":{"__ndarray__":"AAAAAAB0n0AAAAAAAHSfQAAAAAAAdJ9AAAAAAAB0n0AAAAAAAHSfQAAAAAAAdJ9AAAAAAAB0n0AAAAAAAHSfQAAAAAAAdJ9AAAAAAAB0n0AAAAAAAHSfQAAAAAAAdJ9A","dtype":"float64","shape":[12]},"year_min":{"__ndarray__":"AAAAAABgn0AAAAAAAGCfQAAAAAAAYJ9AAAAAAABgn0AAAAAAAGCfQAAAAAAAYJ9AAAAAAABgn0AAAAAAAGCfQAAAAAAAYJ9AAAAAAABgn0AAAAAAAGCfQAAAAAAAYJ9A","dtype":"float64","shape":[12]},"year_std":{"__ndarray__":"NG/9k3KICkA0b/2TcogKQDRv/ZNyiApANG/9k3KICkA0b/2TcogKQDRv/ZNyiApANG/9k3KICkA0b/2TcogKQDRv/ZNyiApANG/9k3KICkA0b/2TcogKQDRv/ZNyiApA","dtype":"float64","shape":[12]}},"selected":{"id":"12736","type":"Selection"},"selection_policy":{"id":"12735","type":"UnionRenderers"}},"id":"12486","type":"ColumnDataSource"},{"attributes":{},"id":"12473","type":"PanTool"},{"attributes":{"bottom_units":"screen","fill_alpha":{"value":0.5},"fill_color":{"value":"lightgrey"},"left_units":"screen","level":"overlay","line_alpha":{"value":1.0},"line_color":{"value":"black"},"line_dash":[4,4],"line_width":{"value":2},"render_mode":"css","right_units":"screen","top_units":"screen"},"id":"12734","type":"BoxAnnotation"},{"attributes":{"overlay":{"id":"12734","type":"BoxAnnotation"}},"id":"12475","type":"BoxZoomTool"},{"attributes":{},"id":"12735","type":"UnionRenderers"},{"attributes":{"fill_color":{"field":"activity","transform":{"id":"12452","type":"CategoricalColorMapper"}},"line_color":{"field":"activity","transform":{"id":"12452","type":"CategoricalColorMapper"}},"top":{"field":"avg_time_per_week_mean"},"width":{"value":1},"x":{"field":"activity"}},"id":"12488","type":"VBar"},{"attributes":{"callback":null,"start":0},"id":"12458","type":"DataRange1d"},{"attributes":{},"id":"12478","type":"HelpTool"}],"root_ids":["12453"]},"title":"Bokeh Application","version":"1.4.0"}}
+        </script>
+        <script type="text/javascript">
+          (function() {
+            var fn = function() {
+              Bokeh.safely(function() {
+                (function(root) {
+                  function embed_document(root) {
+                    
+                  var docs_json = document.getElementById('12881').textContent;
+                  var render_items = [{"docid":"71a224af-b521-4f8e-b37c-3943a3ff05d2","roots":{"12453":"38fc3192-94fa-4138-8e50-6906decdf781"}}];
+                  root.Bokeh.embed.embed_items(docs_json, render_items);
+                
+                  }
+                  if (root.Bokeh !== undefined) {
+                    embed_document(root);
+                  } else {
+                    var attempts = 0;
+                    var timer = setInterval(function(root) {
+                      if (root.Bokeh !== undefined) {
+                        clearInterval(timer);
+                        embed_document(root);
+                      } else {
+                        attempts++;
+                        if (attempts > 100) {
+                          clearInterval(timer);
+                          console.log("Bokeh: ERROR: Unable to run BokehJS code because BokehJS library is missing");
+                        }
+                      }
+                    }, 10, root)
+                  }
+                })(window);
+              });
+            };
+            if (document.readyState != "loading") fn();
+            else document.addEventListener("DOMContentLoaded", fn);
+          })();
+        </script>
+    
+  </body>
+  
+</html>

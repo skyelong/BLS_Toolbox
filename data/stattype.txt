@@ -1,0 +1,7 @@
+stattype_code	stattype_text	display_level	selectable	sort_sequence
+10100	Number of persons (in thousands)	0	T	3
+10101	Average hours per day	0	T	1
+20100	Number of participants in an activity on an average day (in thousands)	0	T	4
+20101	Average hours per day for participants in an activity	0	T	2
+30105	Percent of population engaged in activity on an average day	0	T	5
+30107	Number of participants in an activity on an average day (in thousands)	0	T	7

@@ -1,0 +1,133 @@
+,series_id,year,education,gender,ethnicity,age,activity,avg_time_per_week,std_err
+0,TUU10101AA01008829,2018,All education levels,Both sexes,All races,15 years and over,Personal care activities (includes travel),9.58,       0.034
+1,TUU10101AA01008829,2017,All education levels,Both sexes,All races,15 years and over,Personal care activities (includes travel),9.59,       0.025
+2,TUU10101AA01008829,2016,All education levels,Both sexes,All races,15 years and over,Personal care activities (includes travel),9.58,       0.028
+3,TUU10101AA01008829,2015,All education levels,Both sexes,All races,15 years and over,Personal care activities (includes travel),9.64,       0.028
+4,TUU10101AA01008829,2014,All education levels,Both sexes,All races,15 years and over,Personal care activities (includes travel),9.58,       0.027
+5,TUU10101AA01008829,2013,All education levels,Both sexes,All races,15 years and over,Personal care activities (includes travel),9.54,       0.027
+6,TUU10101AA01008829,2012,All education levels,Both sexes,All races,15 years and over,Personal care activities (includes travel),9.49,       0.026
+7,TUU10101AA01008829,2011,All education levels,Both sexes,All races,15 years and over,Personal care activities (includes travel),9.49,       0.026
+8,TUU10101AA01008829,2010,All education levels,Both sexes,All races,15 years and over,Personal care activities (includes travel),9.47,       0.027
+9,TUU10101AA01008829,2009,All education levels,Both sexes,All races,15 years and over,Personal care activities (includes travel),9.45,       0.023
+10,TUU10101AA01008829,2008,All education levels,Both sexes,All races,15 years and over,Personal care activities (includes travel),9.39,       0.025
+11,TUU10101AA01013237,2018,All education levels,Both sexes,All races,15 years and over,Eating and drinking (includes travel),1.19,       0.013
+12,TUU10101AA01013237,2017,All education levels,Both sexes,All races,15 years and over,Eating and drinking (includes travel),1.18,       0.013
+13,TUU10101AA01013237,2016,All education levels,Both sexes,All races,15 years and over,Eating and drinking (includes travel),1.17,       0.012
+14,TUU10101AA01013237,2015,All education levels,Both sexes,All races,15 years and over,Eating and drinking (includes travel),1.18,       0.011
+15,TUU10101AA01013237,2014,All education levels,Both sexes,All races,15 years and over,Eating and drinking (includes travel),1.17,       0.010
+16,TUU10101AA01013237,2013,All education levels,Both sexes,All races,15 years and over,Eating and drinking (includes travel),1.23,       0.012
+17,TUU10101AA01013237,2012,All education levels,Both sexes,All races,15 years and over,Eating and drinking (includes travel),1.25,       0.012
+18,TUU10101AA01013237,2011,All education levels,Both sexes,All races,15 years and over,Eating and drinking (includes travel),1.24,       0.011
+19,TUU10101AA01013237,2010,All education levels,Both sexes,All races,15 years and over,Eating and drinking (includes travel),1.25,       0.012
+20,TUU10101AA01013237,2009,All education levels,Both sexes,All races,15 years and over,Eating and drinking (includes travel),1.22,       0.011
+21,TUU10101AA01013237,2008,All education levels,Both sexes,All races,15 years and over,Eating and drinking (includes travel),1.23,       0.011
+22,TUU10101AA01009381,2018,All education levels,Both sexes,All races,15 years and over,Household activities (includes travel),1.78,       0.025
+23,TUU10101AA01009381,2017,All education levels,Both sexes,All races,15 years and over,Household activities (includes travel),1.81,       0.030
+24,TUU10101AA01009381,2016,All education levels,Both sexes,All races,15 years and over,Household activities (includes travel),1.82,       0.026
+25,TUU10101AA01009381,2015,All education levels,Both sexes,All races,15 years and over,Household activities (includes travel),1.84,       0.025
+26,TUU10101AA01009381,2014,All education levels,Both sexes,All races,15 years and over,Household activities (includes travel),1.77,       0.023
+27,TUU10101AA01009381,2013,All education levels,Both sexes,All races,15 years and over,Household activities (includes travel),1.78,       0.025
+28,TUU10101AA01009381,2012,All education levels,Both sexes,All races,15 years and over,Household activities (includes travel),1.74,       0.023
+29,TUU10101AA01009381,2011,All education levels,Both sexes,All races,15 years and over,Household activities (includes travel),1.77,       0.021
+30,TUU10101AA01009381,2010,All education levels,Both sexes,All races,15 years and over,Household activities (includes travel),1.79,       0.024
+31,TUU10101AA01009381,2009,All education levels,Both sexes,All races,15 years and over,Household activities (includes travel),1.80,       0.024
+32,TUU10101AA01009381,2008,All education levels,Both sexes,All races,15 years and over,Household activities (includes travel),1.73,       0.024
+33,TUU10101AA01012652,2018,All education levels,Both sexes,All races,15 years and over,Purchasing goods and services (includes travel),0.72,       0.016
+34,TUU10101AA01012652,2017,All education levels,Both sexes,All races,15 years and over,Purchasing goods and services (includes travel),0.72,       0.016
+35,TUU10101AA01012652,2016,All education levels,Both sexes,All races,15 years and over,Purchasing goods and services (includes travel),0.76,       0.015
+36,TUU10101AA01012652,2015,All education levels,Both sexes,All races,15 years and over,Purchasing goods and services (includes travel),0.75,       0.016
+37,TUU10101AA01012652,2014,All education levels,Both sexes,All races,15 years and over,Purchasing goods and services (includes travel),0.74,       0.016
+38,TUU10101AA01012652,2013,All education levels,Both sexes,All races,15 years and over,Purchasing goods and services (includes travel),0.75,       0.015
+39,TUU10101AA01012652,2012,All education levels,Both sexes,All races,15 years and over,Purchasing goods and services (includes travel),0.72,       0.015
+40,TUU10101AA01012652,2011,All education levels,Both sexes,All races,15 years and over,Purchasing goods and services (includes travel),0.72,       0.012
+41,TUU10101AA01012652,2010,All education levels,Both sexes,All races,15 years and over,Purchasing goods and services (includes travel),0.75,       0.013
+42,TUU10101AA01012652,2009,All education levels,Both sexes,All races,15 years and over,Purchasing goods and services (includes travel),0.76,       0.014
+43,TUU10101AA01012652,2008,All education levels,Both sexes,All races,15 years and over,Purchasing goods and services (includes travel),0.77,       0.016
+44,TUU10101AA01010374,2018,All education levels,Both sexes,All races,15 years and over,Caring for and helping household members (includes travel),0.51,       0.015
+45,TUU10101AA01010374,2017,All education levels,Both sexes,All races,15 years and over,Caring for and helping household members (includes travel),0.52,       0.014
+46,TUU10101AA01010374,2016,All education levels,Both sexes,All races,15 years and over,Caring for and helping household members (includes travel),0.52,       0.012
+47,TUU10101AA01010374,2015,All education levels,Both sexes,All races,15 years and over,Caring for and helping household members (includes travel),0.51,       0.012
+48,TUU10101AA01010374,2014,All education levels,Both sexes,All races,15 years and over,Caring for and helping household members (includes travel),0.54,       0.014
+49,TUU10101AA01010374,2013,All education levels,Both sexes,All races,15 years and over,Caring for and helping household members (includes travel),0.53,       0.012
+50,TUU10101AA01010374,2012,All education levels,Both sexes,All races,15 years and over,Caring for and helping household members (includes travel),0.51,       0.013
+51,TUU10101AA01010374,2011,All education levels,Both sexes,All races,15 years and over,Caring for and helping household members (includes travel),0.51,       0.012
+52,TUU10101AA01010374,2010,All education levels,Both sexes,All races,15 years and over,Caring for and helping household members (includes travel),0.51,       0.012
+53,TUU10101AA01010374,2009,All education levels,Both sexes,All races,15 years and over,Caring for and helping household members (includes travel),0.54,       0.013
+54,TUU10101AA01010374,2008,All education levels,Both sexes,All races,15 years and over,Caring for and helping household members (includes travel),0.53,       0.012
+55,TUU10101AA01011174,2018,All education levels,Both sexes,All races,15 years and over,Caring for and helping nonhousehold members (includes travel),0.21,       0.010
+56,TUU10101AA01011174,2017,All education levels,Both sexes,All races,15 years and over,Caring for and helping nonhousehold members (includes travel),0.18,       0.009
+57,TUU10101AA01011174,2016,All education levels,Both sexes,All races,15 years and over,Caring for and helping nonhousehold members (includes travel),0.21,       0.011
+58,TUU10101AA01011174,2015,All education levels,Both sexes,All races,15 years and over,Caring for and helping nonhousehold members (includes travel),0.19,       0.009
+59,TUU10101AA01011174,2014,All education levels,Both sexes,All races,15 years and over,Caring for and helping nonhousehold members (includes travel),0.18,       0.009
+60,TUU10101AA01011174,2013,All education levels,Both sexes,All races,15 years and over,Caring for and helping nonhousehold members (includes travel),0.19,       0.009
+61,TUU10101AA01011174,2012,All education levels,Both sexes,All races,15 years and over,Caring for and helping nonhousehold members (includes travel),0.18,       0.008
+62,TUU10101AA01011174,2011,All education levels,Both sexes,All races,15 years and over,Caring for and helping nonhousehold members (includes travel),0.21,       0.011
+63,TUU10101AA01011174,2010,All education levels,Both sexes,All races,15 years and over,Caring for and helping nonhousehold members (includes travel),0.21,       0.010
+64,TUU10101AA01011174,2009,All education levels,Both sexes,All races,15 years and over,Caring for and helping nonhousehold members (includes travel),0.21,       0.009
+65,TUU10101AA01011174,2008,All education levels,Both sexes,All races,15 years and over,Caring for and helping nonhousehold members (includes travel),0.23,       0.010
+66,TUU10101AA01011987,2018,All education levels,Both sexes,All races,15 years and over,Working and work-related activities (includes travel),3.57,       0.057
+67,TUU10101AA01011987,2017,All education levels,Both sexes,All races,15 years and over,Working and work-related activities (includes travel),3.59,       0.059
+68,TUU10101AA01011987,2016,All education levels,Both sexes,All races,15 years and over,Working and work-related activities (includes travel),3.61,       0.048
+69,TUU10101AA01011987,2015,All education levels,Both sexes,All races,15 years and over,Working and work-related activities (includes travel),3.53,       0.050
+70,TUU10101AA01011987,2014,All education levels,Both sexes,All races,15 years and over,Working and work-related activities (includes travel),3.59,       0.052
+71,TUU10101AA01011987,2013,All education levels,Both sexes,All races,15 years and over,Working and work-related activities (includes travel),3.46,       0.049
+72,TUU10101AA01011987,2012,All education levels,Both sexes,All races,15 years and over,Working and work-related activities (includes travel),3.53,       0.053
+73,TUU10101AA01011987,2011,All education levels,Both sexes,All races,15 years and over,Working and work-related activities (includes travel),3.57,       0.048
+74,TUU10101AA01011987,2010,All education levels,Both sexes,All races,15 years and over,Working and work-related activities (includes travel),3.50,       0.045
+75,TUU10101AA01011987,2009,All education levels,Both sexes,All races,15 years and over,Working and work-related activities (includes travel),3.53,       0.047
+76,TUU10101AA01011987,2008,All education levels,Both sexes,All races,15 years and over,Working and work-related activities (includes travel),3.73,       0.051
+77,TUU10101AA01012335,2018,All education levels,Both sexes,All races,15 years and over,Educational activities (includes travel),0.46,       0.024
+78,TUU10101AA01012335,2017,All education levels,Both sexes,All races,15 years and over,Educational activities (includes travel),0.48,       0.026
+79,TUU10101AA01012335,2016,All education levels,Both sexes,All races,15 years and over,Educational activities (includes travel),0.49,       0.024
+80,TUU10101AA01012335,2015,All education levels,Both sexes,All races,15 years and over,Educational activities (includes travel),0.46,       0.025
+81,TUU10101AA01012335,2014,All education levels,Both sexes,All races,15 years and over,Educational activities (includes travel),0.42,       0.020
+82,TUU10101AA01012335,2013,All education levels,Both sexes,All races,15 years and over,Educational activities (includes travel),0.48,       0.030
+83,TUU10101AA01012335,2012,All education levels,Both sexes,All races,15 years and over,Educational activities (includes travel),0.50,       0.025
+84,TUU10101AA01012335,2011,All education levels,Both sexes,All races,15 years and over,Educational activities (includes travel),0.47,       0.021
+85,TUU10101AA01012335,2010,All education levels,Both sexes,All races,15 years and over,Educational activities (includes travel),0.47,       0.019
+86,TUU10101AA01012335,2009,All education levels,Both sexes,All races,15 years and over,Educational activities (includes travel),0.46,       0.019
+87,TUU10101AA01012335,2008,All education levels,Both sexes,All races,15 years and over,Educational activities (includes travel),0.47,       0.023
+88,TUU10101AA01015010,2018,All education levels,Both sexes,All races,15 years and over,"Organizational, civic, and religious activities",0.30,       0.011
+89,TUU10101AA01015010,2017,All education levels,Both sexes,All races,15 years and over,"Organizational, civic, and religious activities",0.33,       0.014
+90,TUU10101AA01015010,2016,All education levels,Both sexes,All races,15 years and over,"Organizational, civic, and religious activities",0.32,       0.013
+91,TUU10101AA01015010,2015,All education levels,Both sexes,All races,15 years and over,"Organizational, civic, and religious activities",0.33,       0.011
+92,TUU10101AA01015010,2014,All education levels,Both sexes,All races,15 years and over,"Organizational, civic, and religious activities",0.32,       0.011
+93,TUU10101AA01015010,2013,All education levels,Both sexes,All races,15 years and over,"Organizational, civic, and religious activities",0.32,       0.012
+94,TUU10101AA01015010,2012,All education levels,Both sexes,All races,15 years and over,"Organizational, civic, and religious activities",0.32,       0.010
+95,TUU10101AA01015010,2011,All education levels,Both sexes,All races,15 years and over,"Organizational, civic, and religious activities",0.35,       0.012
+96,TUU10101AA01015010,2010,All education levels,Both sexes,All races,15 years and over,"Organizational, civic, and religious activities",0.35,       0.014
+97,TUU10101AA01015010,2009,All education levels,Both sexes,All races,15 years and over,"Organizational, civic, and religious activities",0.34,       0.011
+98,TUU10101AA01015010,2008,All education levels,Both sexes,All races,15 years and over,"Organizational, civic, and religious activities",0.33,       0.012
+99,TUU10101AA01013585,2018,All education levels,Both sexes,All races,15 years and over,Leisure and sports (includes travel),5.27,       0.043
+100,TUU10101AA01013585,2017,All education levels,Both sexes,All races,15 years and over,Leisure and sports (includes travel),5.24,       0.046
+101,TUU10101AA01013585,2016,All education levels,Both sexes,All races,15 years and over,Leisure and sports (includes travel),5.13,       0.040
+102,TUU10101AA01013585,2015,All education levels,Both sexes,All races,15 years and over,Leisure and sports (includes travel),5.21,       0.040
+103,TUU10101AA01013585,2014,All education levels,Both sexes,All races,15 years and over,Leisure and sports (includes travel),5.30,       0.048
+104,TUU10101AA01013585,2013,All education levels,Both sexes,All races,15 years and over,Leisure and sports (includes travel),5.26,       0.040
+105,TUU10101AA01013585,2012,All education levels,Both sexes,All races,15 years and over,Leisure and sports (includes travel),5.37,       0.038
+106,TUU10101AA01013585,2011,All education levels,Both sexes,All races,15 years and over,Leisure and sports (includes travel),5.21,       0.038
+107,TUU10101AA01013585,2010,All education levels,Both sexes,All races,15 years and over,Leisure and sports (includes travel),5.18,       0.043
+108,TUU10101AA01013585,2009,All education levels,Both sexes,All races,15 years and over,Leisure and sports (includes travel),5.25,       0.040
+109,TUU10101AA01013585,2008,All education levels,Both sexes,All races,15 years and over,Leisure and sports (includes travel),5.18,       0.040
+110,TUU10101AA01015586,2018,All education levels,Both sexes,All races,15 years and over,"Telephone calls, mail, and e-mail (includes travel)",0.15,       0.007
+111,TUU10101AA01015586,2017,All education levels,Both sexes,All races,15 years and over,"Telephone calls, mail, and e-mail (includes travel)",0.15,       0.006
+112,TUU10101AA01015586,2016,All education levels,Both sexes,All races,15 years and over,"Telephone calls, mail, and e-mail (includes travel)",0.16,       0.007
+113,TUU10101AA01015586,2015,All education levels,Both sexes,All races,15 years and over,"Telephone calls, mail, and e-mail (includes travel)",0.16,       0.006
+114,TUU10101AA01015586,2014,All education levels,Both sexes,All races,15 years and over,"Telephone calls, mail, and e-mail (includes travel)",0.14,       0.006
+115,TUU10101AA01015586,2013,All education levels,Both sexes,All races,15 years and over,"Telephone calls, mail, and e-mail (includes travel)",0.15,       0.006
+116,TUU10101AA01015586,2012,All education levels,Both sexes,All races,15 years and over,"Telephone calls, mail, and e-mail (includes travel)",0.16,       0.007
+117,TUU10101AA01015586,2011,All education levels,Both sexes,All races,15 years and over,"Telephone calls, mail, and e-mail (includes travel)",0.16,       0.005
+118,TUU10101AA01015586,2010,All education levels,Both sexes,All races,15 years and over,"Telephone calls, mail, and e-mail (includes travel)",0.18,       0.006
+119,TUU10101AA01015586,2009,All education levels,Both sexes,All races,15 years and over,"Telephone calls, mail, and e-mail (includes travel)",0.20,       0.006
+120,TUU10101AA01015586,2008,All education levels,Both sexes,All races,15 years and over,"Telephone calls, mail, and e-mail (includes travel)",0.21,       0.007
+121,TUU10101AA01015925,2018,All education levels,Both sexes,All races,15 years and over,"Other activities, not elsewhere classified (includes misc. travel and data codes)",0.26,       0.011
+122,TUU10101AA01015925,2017,All education levels,Both sexes,All races,15 years and over,"Other activities, not elsewhere classified (includes misc. travel and data codes)",0.20,       0.009
+123,TUU10101AA01015925,2016,All education levels,Both sexes,All races,15 years and over,"Other activities, not elsewhere classified (includes misc. travel and data codes)",0.22,       0.014
+124,TUU10101AA01015925,2015,All education levels,Both sexes,All races,15 years and over,"Other activities, not elsewhere classified (includes misc. travel and data codes)",0.19,       0.010
+125,TUU10101AA01015925,2014,All education levels,Both sexes,All races,15 years and over,"Other activities, not elsewhere classified (includes misc. travel and data codes)",0.23,       0.011
+126,TUU10101AA01015925,2013,All education levels,Both sexes,All races,15 years and over,"Other activities, not elsewhere classified (includes misc. travel and data codes)",0.31,       0.016
+127,TUU10101AA01015925,2012,All education levels,Both sexes,All races,15 years and over,"Other activities, not elsewhere classified (includes misc. travel and data codes)",0.24,       0.011
+128,TUU10101AA01015925,2011,All education levels,Both sexes,All races,15 years and over,"Other activities, not elsewhere classified (includes misc. travel and data codes)",0.29,       0.014
+129,TUU10101AA01015925,2010,All education levels,Both sexes,All races,15 years and over,"Other activities, not elsewhere classified (includes misc. travel and data codes)",0.35,       0.012
+130,TUU10101AA01015925,2009,All education levels,Both sexes,All races,15 years and over,"Other activities, not elsewhere classified (includes misc. travel and data codes)",0.24,       0.009
+131,TUU10101AA01015925,2008,All education levels,Both sexes,All races,15 years and over,"Other activities, not elsewhere classified (includes misc. travel and data codes)",0.20,       0.009

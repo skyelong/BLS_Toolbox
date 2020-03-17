@@ -1,0 +1,5 @@
+race_code	race_text	display_level	selectable	sort_sequence
+00	All races	0	T	1
+01	White	0	T	2
+03	Black or African American	0	T	3
+04	Asian	0	T	4

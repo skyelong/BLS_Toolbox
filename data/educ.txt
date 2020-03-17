@@ -1,0 +1,8 @@
+educ_code	educ_text	display_level	selectable	sort_sequence
+00	All education levels	0	T	1
+30	Less than a high school diploma	0	T	2
+31	High school graduates, no college	0	T	4
+33	Bachelor's degree and higher	0	T	6
+35	Some college or associate degree	0	T	5
+37	Bachelor's degree only	1	T	7
+38	Advanced degree	1	T	8

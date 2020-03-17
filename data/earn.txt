@@ -1,0 +1,6 @@
+earn_code	earn_text	display_level	selectable	sort_sequence
+00	All persons	0	T	1
+01	Weekly earnings less than or equal to the 25th percentile	0	T	2
+02	Weekly earnings greater than 25th percentile and less than or equal to 50th percentile	0	T	3
+03	Weekly earnings greater than 50th percentile and less than or equal to 75th percentile	0	T	4
+04	Weekly earnings greater than the 75th percentile	0	T	5
